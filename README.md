@@ -28,3 +28,14 @@ Built a virtual IT helpdesk environment using Ubuntu Linux to simulate real-worl
 
 ## Status
 Ongoing learning project (expanding into Windows Server + Active Directory next)
+
+
+## Screenshots / Evidence
+
+The following screenshots demonstrate real troubleshooting steps performed during the lab:
+
+- IP configuration check
+- Internet connectivity validation
+- DNS resolution testing
+
+See `/Screenshots` folder for evidence.
